@@ -39,14 +39,7 @@ utilizando um Framework ao invés de HTML, CSS e JavaScript puro.
 
 ## Demonstração:
 
-![MeuVdeo133-ezgif com-crop](https://github.com/user-attachments/assets/0614c079-d1c6-40df-9e5a-a23da9144d4f)
-
-*Mostrando responsividade, zoom e navegação pela sidebar*
-
-![MeuVdeo132-ezgif com-video-to-gif-converter ](https://github.com/user-attachments/assets/3ae106ea-875c-4b0e-a508-5892a69e452d)
-
-*Área de adição e gerenciamento de produtos*
-
+![MeuVdeo134-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/addf8eb3-31b9-407a-aa0f-83ce9140ccdd)
 
 ## Aqui está a calculadora totalmente utilizável online:
 
