@@ -50,7 +50,7 @@ utilizando um Framework ao invés de HTML, CSS e JavaScript puro.
 
 ## Aqui está a calculadora totalmente utilizável online:
 
-[Gerenciamento de Estoque](https://gerenciamento-de-estoque-4b57.vercel.app/)
+[CalculadoraIMC](https://calculadora-de-imc-ebon-seven.vercel.app/)
 
 ## Rode o projeto localmente:
 
